@@ -1,0 +1,13 @@
+dept,name,salary,salary_rank,below_top_earner
+HR,Aman,90000,1,0
+HR,Zoya,75000,2,15000
+Sales,Arjun,120000,1,0
+Sales,Priya,95000,2,25000
+Sales,Rahul,95000,2,25000
+Sales,Kiran,72000,3,48000
+Sales,Divya,68000,4,52000
+Tech,Sneha,150000,1,0
+Tech,Meera,135000,2,15000
+Tech,Vikram,135000,2,15000
+Tech,Ravi,110000,3,40000
+Tech,Tara,88000,4,62000

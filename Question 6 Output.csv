@@ -1,0 +1,9 @@
+product_id,category,price,category_avg_price,percentage_from_category_average
+1,Laptop,85000,75000,13.33
+2,Laptop,65000,75000,-13.33
+8,Monitor,18000,18000,0
+3,Phone,45000,35000,28.57
+4,Phone,32000,35000,-8.57
+5,Phone,28000,35000,-20
+6,Tablet,38000,30000,26.67
+7,Tablet,22000,30000,-26.67
